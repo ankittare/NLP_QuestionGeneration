@@ -5,12 +5,6 @@
 # Class inclues  all set defintions 
 # Allow defining set of accepted values and quick membership checking
 #
-# Rachel Kobayashi
-#   with
-# Aaron Anderson
-# Eric Gan
-#
-#
 
 import re;
 from collections import deque;
