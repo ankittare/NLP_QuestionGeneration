@@ -18,11 +18,6 @@
 #
 # Error 501: Not Yet Implemented
 #
-# Aaron Anderson
-#   with
-# Eric Gan
-# Rachel Kobayashi
-#
 
 ### IMPORTS ###
 
