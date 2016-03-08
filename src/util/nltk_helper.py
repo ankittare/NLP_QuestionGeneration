@@ -3,12 +3,6 @@
 # nltk_helper.py
 # 
 # General helper util functions
-# 
-# Eric Gan
-#   with 
-# Aaron Anderson
-# Rachel Kobayashi
-# 
 # Note: 
 # Some code was borrowed since the naive nltk tokenizer wasn't perfect.
 # http://stackoverflow.com/questions/14095971/how-to-tweak-the-nltk-sentence-tokenizer
