@@ -27,14 +27,6 @@
 #  These defaults can be easily changed by editing the Default Parameters
 #  section below.
 #
-#
-# Error 501: Not Yet Implemented
-# 
-# Aaron Anderson
-#   with
-# Eric Gan
-# Rachel Kobayashi
-#
 
 ### IMPORTS ###
 
