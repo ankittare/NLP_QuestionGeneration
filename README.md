@@ -3,9 +3,7 @@
 
 Q&A Robot
 
-Our final project for 11-411
-
-Tested for ghc20.ghc.andrew.cmu.edu, unix1.andrew.cmu.edu.
+Our final project for 11-611
 
 Files to execute:
 ask.py - Located in src.
