@@ -7,12 +7,6 @@
 # Places setnences into a list
 # Creates a dictionary with subjects (based on header info)
 #
-# Eric Gan
-#   with 
-# Aaron Anderson
-# Rachel Kobayashi
-#
-#
 
 #TODO:
 #-Handle h3 tags (subtopics of topics)
