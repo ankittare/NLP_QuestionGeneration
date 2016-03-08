@@ -6,12 +6,6 @@
 #   words: from subset, group words that appear together in some sample
 #   dates: given the location and length of dates, group, replace tag
 #
-# Rachel Kobayashi
-#   with
-# Aaron Anderson
-# Eric Gan
-#
-#
 
 import rdrpos
 from set_defs import Identity;
