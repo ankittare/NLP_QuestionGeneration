@@ -4,12 +4,6 @@
 #
 # Class the contains general utility functions 
 # used across all functions
-#
-# Rachel Kobayashi
-# Aaron Anderson
-#   with
-# Eric Gan
-#
 # E: Can we merge this file wtih perhaps ntlk_helper.py? 
 #    Or merge nltk_helper.py with this file? It's pretty much
 #    the same thing. 
