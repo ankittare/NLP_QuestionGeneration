@@ -7,12 +7,6 @@
 # Contains one convenience method for easily tagging a string (similar
 # to functionality provided by nltk.pos_tag)
 #
-# Aaron Anderson
-#   with
-# Rachel Kobayashi
-# Eric Gan
-#
-#
 
 from util.RDR_POS.pSCRDRtagger.EnPOS import EnRDRTree
 from util.RDR_POS.Utility.Utils import readDictionary
