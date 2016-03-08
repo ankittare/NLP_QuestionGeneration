@@ -4,12 +4,6 @@
 # Given a sentence, this class can be used to turn the sentence into a question
 #   tries a variety of methods and returns after one has been successful
 #
-# Rachel Kobayashi
-#   with
-# Aaron Anderson
-# Eric Gan
-#
-#
 
 import util.rdrpos as rdrpos
 import nltk, string
