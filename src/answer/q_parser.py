@@ -12,12 +12,6 @@
 # qInfo = QParser("What things did Aaron break today?");
 # key_tokens = qInfo.find_keywords();
 # print key_tokens
-#
-#
-
-#
-#
-
 
 import nltk
 import util.rdrpos as rdrpos
@@ -35,18 +29,6 @@ WH_ADVERB='WRB'     # Tag for wh-adverbs such as where, when
 # and return them as a list of tokens
 #   q_str:  A string containing a fluent, well-structured English question,
 #           such as "What country has the highest average elevation?"
-# 
-
-
-# NEW NOTES:
-# I just turned this into a class beacuse I thought it might be helpful
-# considering we have multiple questions and we want the same parsing
-# this would allow us to save information about the current question
-# but then move on when we're finished with answering it
-# things to consider:
-#   does this add unnessary overhaed?
-#   does this actually make things simpler? 
-
 class QParser(object):
     def __init__(self, question):
         # E: Let's create a list of generic verbs that we don't want to include
