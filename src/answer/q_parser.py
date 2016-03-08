@@ -14,10 +14,7 @@
 # print key_tokens
 #
 #
-# Aaron Anderson
-#   with
-# Rachel Kobayashi
-# Eric Gan
+
 #
 #
 
