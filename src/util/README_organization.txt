@@ -1,10 +1,3 @@
-Error 501: Not Yet Implemented
-Aaron Anderson
-Eric Gan
-Rachel Kobayashi
-Last updated 3/12/2014 by Rachel
-
-
 CODE ORGANZATION INTENTIONS
 Some general notes about the current methods and guidelines for the code in this project.
 
