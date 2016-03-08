@@ -3,12 +3,6 @@
 # answer.py
 #
 # Main driver for question answering robot.  
-#
-# Eric Gan
-#   with
-# Aaron Anderson
-# Rachel Kobayashi
-#
 # TODO: -Make a specialized <li> list set for articles that have lists.
 #       -Edit BestAnswer2 to account for multiple instances of keywords 
 #           (similar to the reason why we need that break statement)
