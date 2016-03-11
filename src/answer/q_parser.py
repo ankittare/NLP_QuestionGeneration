@@ -95,19 +95,15 @@ class QParser(object):
                     toRemove.append(tup)
         for tup in toRemove:
             verbs.remove(tup)
-
         #Add synonyms: only to verbs (maybe adjectives?)
         allSynonyms = []
         # for tup in verbs:
         #     allSynonyms += map(
         #         lambda x: (x, tup[1]), nhelp.getSynonyms(tup[0]))
-
         # #Add synonyms: to adjs too!
         # for tup in adjs:
         #     allSynonyms += map(
         #         lambda x: (x, tup[1]), nhelp.getSynonyms(tup[0]))
-
-
         # Simple but slow duplicate-remover. 
 
         key_tokens = verbs + nouns + adjs + nums + allSynonyms
