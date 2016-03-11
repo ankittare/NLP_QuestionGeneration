@@ -4,7 +4,6 @@
 # Given a sentence, this class can be used to turn the sentence into a question
 #   tries a variety of methods and returns after one has been successful
 #
-
 import util.rdrpos as rdrpos
 import nltk, string
 from util.combinations import Combine
@@ -15,7 +14,6 @@ from util.qutil import *
 #   if -> why question with the if section as the clause
 #   noun / proper noun / pronoun replacement
 #   names / proper nouns
-
 class ConstructQuestion(object):
     def __init__(self, sentence):
         self.c = Combine();
@@ -72,7 +70,6 @@ class ConstructQuestion(object):
             return tokList, tagList,idxList;
         else:
             return tokList, tagList;
-
     # Split the tokens and tags into phrases based on commas
     # or other ending punc such as ;.?
     # cannot just join and use split because the question word that has
